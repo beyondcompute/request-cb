@@ -1,6 +1,6 @@
 {
   "name": "request-cb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A callback wrapper for error logging with node `request` library",
   "main": "index.js",
   "repository": {
