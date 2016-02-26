@@ -1,0 +1,21 @@
+{
+  "name": "request-cb",
+  "version": "0.1.0",
+  "description": "A callback wrapper for error logging with node `request` library",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beyondcompute/request-cb.git"
+  },
+  "keywords": [
+    "request",
+    "error",
+    "handling"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beyondcompute/request-cb/issues"
+  },
+  "homepage": "https://github.com/beyondcompute/request-cb#readme"
+}
